@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/pmuens/yield-farming/issues"
   },
-  "homepage": "https://github.com/pmuens/yield-farming#readme"
+  "homepage": "https://github.com/pmuens/yield-farming#readme",
+  "devDependencies": {
+    "truffle": "^5.1.50"
+  }
 }
